@@ -1,0 +1,11 @@
+{
+  "format": "freedom.skill-book/v1",
+  "id": "freedom-skill-career-guide",
+  "title": "方向探索與陪跑入門",
+  "version": "0.1.0",
+  "guild_key": "guild_talent_direction",
+  "entry": "SKILL.md",
+  "execution": "manual_or_member_owned_assistant",
+  "repository": "https://github.com/FreeTWAI-AI/freedom-skill-career-guide",
+  "license": "NOASSERTION"
+}
